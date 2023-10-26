@@ -10,3 +10,5 @@ describe('testFunctions', function() {
         });
     });
 });
+
+//DOES NOT WORK, REFACTOR IN PROGRESS
